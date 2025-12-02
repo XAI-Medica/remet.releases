@@ -1,0 +1,18 @@
+[NeuroCom]
+HDDserialNumber=
+HardwareserialNumber=
+;ExpiredDate=1 Mar, 2019
+AllowWorkWoHardware=no
+
+general0platform0cpu=xxx
+general0calibration0enable=0
+
+eeg0record0extleads0enable=0
+eeg0stimulation0advanced0enable=0
+eeg0ep0baep0enable=0
+eeg0bfb0enable=0
+eeg0video0enable=0
+eeg0processing0coherency0enable=0
+eeg0processing0crosscorrelation0enable=0
+
+Signature=cK1©MÁ}Óö•¿M“\Æd4˜†ê„Ÿ|ÂÉşÂªoğdïüeÍ&kïjl¡1åô6[P¥]gVp/=
