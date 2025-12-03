@@ -1,0 +1,13 @@
+[ReoCom]
+HDDserialNumber=BTEH301404RS512A
+HardwareserialNumber=296
+AllowWorkWoHardware=no
+
+general0platform0cpu=12th Gen Intel(R) Core(TM) i3-1215U (Family 6.0, Model 10.9, Stepping 4), Features: SSE3, FPU, Debugging Ext., Time Stamp Counter, PAE, CMPXCHG8B, Unknown1, MTRR, MCA, PAT, Serial#, Debug Store, MMX, SSE, Self Snoop, Thermal, PBE, L1 Cache Size=2048Kb, LineSize=64, L2 Associativity=8
+
+rhg0processing0asi0enable=0
+rhg0processing0occlusion0enable=0
+rhg0processing0endothely0enable=0
+rhg0processing0saddad0enable=0
+
+Signature=
