@@ -1,9 +1,9 @@
 [SpiroCom]
-HDDserialNumber=BTEH301404RS512A
+HDDserialNumber=JA110010K8J3XS
 HardwareserialNumber=
 AllowWorkWoHardware=no
 ;ExpiredDate=02 Jul, 2007
-general0platform0cpu=12th Gen Intel(R) Core(TM) i3-1215U (Family 6.0, Model 10.9, Stepping 4), Features: SSE3, FPU, Debugging Ext., Time Stamp Counter, PAE, CMPXCHG8B, Unknown1, MTRR, MCA, PAT, Serial#, Debug Store, MMX, SSE, Self Snoop, Thermal, PBE, L1 Cache Size=2048Kb, LineSize=64, L2 Associativity=8
+general0platform0cpu=
 general0calibration0enable=0
 sp0processing0comparison0visits0enable=0
 Signature=
