@@ -1,10 +1,10 @@
 [NeuroCom]
-HDDserialNumber=
+HDDserialNumber=BTEH301404RS512A
 HardwareserialNumber=
 ;ExpiredDate=1 Mar, 2019
 AllowWorkWoHardware=no
 
-general0platform0cpu=xxx
+general0platform0cpu=12th Gen Intel(R) Core(TM) i3-1215U (Family 6.0, Model 10.9, Stepping 4), Features: SSE3, FPU, Debugging Ext., Time Stamp Counter, PAE, CMPXCHG8B, Unknown1, MTRR, MCA, PAT, Serial#, Debug Store, MMX, SSE, Self Snoop, Thermal, PBE, L1 Cache Size=2048Kb, LineSize=64, L2 Associativity=8
 general0calibration0enable=0
 
 eeg0record0extleads0enable=0
@@ -15,4 +15,4 @@ eeg0video0enable=0
 eeg0processing0coherency0enable=0
 eeg0processing0crosscorrelation0enable=0
 
-Signature=cK1©MÁ}Óö•¿M“\Æd4˜†ê„Ÿ|ÂÉşÂªoğdïüeÍ&kïjl¡1åô6[P¥]gVp/=
+Signature=
