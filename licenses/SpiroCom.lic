@@ -1,9 +1,6 @@
-[SpiroCom]
-HDDserialNumber=JA110010K8J3XS
-HardwareserialNumber=
-AllowWorkWoHardware=no
-;ExpiredDate=02 Jul, 2007
-general0platform0cpu=
-general0calibration0enable=0
-sp0processing0comparison0visits0enable=0
-Signature=
+[SpiroCom Standard]
+HDDserialNumber=MPA248Q2F9MDUE
+;ExpiredDate=29 Oct, 2005
+HardwareserialNumber=128
+AllowWorkWoHardware=yes
+Signature=è2ëQÃýWy³Óû0¥œÜE*<Yw´)¯{«åªæáoK­®Œˆû½né‡¦ÚŸq;!>%ÛµB5š
