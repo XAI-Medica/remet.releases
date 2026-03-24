@@ -1,9 +1,9 @@
 [SpiroCom]
-HDDserialNumber=X1FXTX9GT
-HardwareserialNumber=332
+HDDserialNumber=P210ZICB25080806317
+HardwareserialNumber=390
 AllowWorkWoHardware=yes
-;ExpiredDate=02 Jul, 2007
-general0platform0cpu=Intel(R) Celeron(R) J4125 CPU @ 2.00GHz (Family 6.0, Model 10.7, Stepping 8), Features: SSE3, FPU, Debugging Ext., Time Stamp Counter, PAE, CMPXCHG8B, Unknown1, MTRR, MCA, PAT, Serial#, Debug Store, MMX, SSE, Self Snoop, Thermal, PBE, L1 Cache Size=4096Kb, LineSize=64, L2 Associativity=8
-spiro0processing0comparison0visits0enable=0
-Signature=%½6X­ò
-½o¦ùLŒ¶m­”Í‰vÙ„„‚Ëôb[8«i—îÑ•æUy!C«ÓÝ¸ªö»a¢ªyUb<•¯W
+; ExpiredDate = 4/24/2026
+general0platform0cpu=AMD Ryzen 5 5600GT with Radeon Graphics (Family 15.10, Model 0.5, Stepping 0), Features: SSE3, FPU, Debugging Ext., Time Stamp Counter, PAE, CMPXCHG8B, Unknown1, MTRR, MCA, PAT, Serial#, Debug Store, MMX, SSE, Self Snoop, Thermal, PBE, L1 Cache Size=512Kb, LineSize=64, L2 Associativity=6
+general0calibration0enable=0
+sp0processing0comparison0visits0enable=0
+Signature=H¯ oî±ÕVA¨àQœŠîÓæGºµóŠÅéjl£'…6Á¸³¤3±ÿXiâO”Ÿ×rÁ·z×¼*w@h
